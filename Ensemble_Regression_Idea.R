@@ -4,7 +4,7 @@ tmpmar[3] <- 0.5
 par(mar=tmpmar)
 
 # get underlying plot
-#1. Import the csv file with past 3 months history for infy share trend
+
 scrip.data <- read.csv("C:/Users/user/downloads/idea_90 (1).csv")
 
 
